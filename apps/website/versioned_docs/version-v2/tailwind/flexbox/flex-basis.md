@@ -23,9 +23,9 @@ const Box = ({ className, ...props }) => (
 const App = () => {
   return (
     <StyledView className="flex flex-row h-screen items-center space-x-2">
-      <Box className="basis-1/4">01</Box>
-      <Box className="basis-1/4">02</Box>
-      <Box className="basis-1/2">03</Box>
+      <Box className="basis-1/4">0debut</Box>
+      <Box className="basis-1/4">0milieu</Box>
+      <Box className="basis-1/2">fin</Box>
     </StyledView>
   );
 }
